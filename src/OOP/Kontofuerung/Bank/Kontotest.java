@@ -7,6 +7,7 @@ public class Kontotest {
         Konto k1 = new Konto(1000);
         Konto k2 = new Konto(2000);
         Konto k3 = new Konto(3000);
+        Girokonto g1 = new Girokonto(4000, 3000);
 
         Konto[] konten = {k1, k2, k3};
 
@@ -14,6 +15,7 @@ public class Kontotest {
             System.out.println("Kontonummer: " + konto.getKontonummer() + "\nKontostand: " + konto.getKontostand());
         }
 
+        // Testfall 1
         k1.einzahlen(300);
         k2.auszahlen(500);
         k3.auszahlen(1000);
@@ -21,5 +23,10 @@ public class Kontotest {
         for (Konto konto : konten) {
             System.out.println("Kontonummer: " + konto.getKontonummer() + "\nKontostand: " + konto.getKontostand());
         }
+
+        // Testausgabe für Girokonto g1
+        System.out.println("\nGirokonto mit der Nummer: " + g1.getKontonummer() + "\nKontostand: " + g1.getKontostand() + "\nLimit: " + g1.getLimit() );
+        g1.auszahlen(3001);
+        System.out.println("\nGirokonto mit der Nummer: " + g1.getKontonummer() + "\nKontostand: " + g1.getKontostand() + "\nLimit: " + g1.getLimit() );
     }
 }

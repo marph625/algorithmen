@@ -32,11 +32,12 @@ public class Konto {
 
     public Konto(double kontostand) {
         // String.format("% AnzahlDerNullstellen d", variable)
-        this.kontonummer = String.format("%03d",kontozaehler);
+        this.kontonummer = String.format("%03d",++kontozaehler);
         this.kontostand = kontostand;
-        this.kontozaehler++;
+        //this.kontozaehler++;
     }
 
+    // Methoden
     public void einzahlen(double betrag_einzahlen) {
         this.kontostand = kontostand + betrag_einzahlen;
         System.out.println("Konto mit der Kontonummer " + this.getKontonummer() + " hat " + betrag_einzahlen + "€ eingezahlt.");

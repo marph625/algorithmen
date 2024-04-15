@@ -27,5 +27,11 @@ public class Bruchtest3 {
     System.out.println("Ergebnis der Division von " + b3.getZaehler() + " / " + b3.getNenner() + " und " + b1.getZaehler() + " / " + b1.getNenner());
     System.out.println(ergebnis4.getZaehler() + " / " + ergebnis4.getNenner());
 
+    // TEST ANTEIL
+
+        Anteil a1 = new Anteil(3, 4);
+        System.out.println("Anteil Bruch: " + a1.toString());
+        System.out.println("verteilt von Anteil: " + a1.getVerteilt());
+
     }
 }

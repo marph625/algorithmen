@@ -70,6 +70,10 @@ public class Bruch3 {
         nenner /= teiler;
     }
 
+    public double dezimalWert() {
+        return (double) zaehler / nenner;
+    }
+
     public void ausgeben() { // Methode ohne Rückgabewert, siehe void
         System.out.println(this.zaehler + "/" + this.nenner);
     }

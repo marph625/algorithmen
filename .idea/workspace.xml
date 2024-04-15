@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="kontofuerung">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Kontofuerung/Bank/Girokonto.java" afterDir="false" />
+    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="kontofuerung, Subklasse Girokonto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Kontofuerung/Bank/Konto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Kontofuerung/Bank/Konto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Kontofuerung/Bank/Kontotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Kontofuerung/Bank/Kontotest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713182191047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kontofuerung, Subklasse Girokonto">
+      <created>1713186354784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713186354784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit all" />
     <MESSAGE value="kontofuerung" />
-    <option name="LAST_COMMIT_MESSAGE" value="kontofuerung" />
+    <MESSAGE value="kontofuerung, Subklasse Girokonto" />
+    <option name="LAST_COMMIT_MESSAGE" value="kontofuerung, Subklasse Girokonto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="kontofuerung, Subklasse Girokonto">
+    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="exercises and text-adventure added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/EAN13/ean13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/EAN13/ean13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/EAN13/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/EAN13/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/myway_fitness/FitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/myway_fitness/FitData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/myway_fitness/MitarbeiterBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/myway_fitness/MitarbeiterBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/oop_expertenaufgabe/ArbeitsplatzPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/oop_expertenaufgabe/ArbeitsplatzPC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objektorientierung/src/oop_expertenaufgabe/Arbeitsplatzverwaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objektorientierung/src/oop_expertenaufgabe/Arbeitsplatzverwaltung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +84,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713186354784</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercises and text-adventure added">
+      <created>1713187619475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713187619475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit all" />
     <MESSAGE value="kontofuerung" />
     <MESSAGE value="kontofuerung, Subklasse Girokonto" />
-    <option name="LAST_COMMIT_MESSAGE" value="kontofuerung, Subklasse Girokonto" />
+    <MESSAGE value="exercises and text-adventure added" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercises and text-adventure added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

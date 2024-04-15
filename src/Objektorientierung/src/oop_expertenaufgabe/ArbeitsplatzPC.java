@@ -1,4 +1,4 @@
-package oop_expertenaufgabe;
+package Objektorientierung.src.oop_expertenaufgabe;
 
 public class ArbeitsplatzPC {
 	

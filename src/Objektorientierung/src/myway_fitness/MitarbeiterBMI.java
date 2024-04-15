@@ -1,4 +1,4 @@
-package myway_fitness;
+package Objektorientierung.src.myway_fitness;
 import java.util.*;
 
 public class MitarbeiterBMI {

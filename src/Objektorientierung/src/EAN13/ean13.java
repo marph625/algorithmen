@@ -1,4 +1,4 @@
-package EAN13;
+package Objektorientierung.src.EAN13;
 
 public class ean13 {
 	

@@ -33,6 +33,7 @@ public class Tiertest {
             System.out.println("----------------");
         }
 
+        System.out.println("Anzahl Tiere im Gehege: " + Tier.getAnzahlTiere());
 //        lee.gibLaut();
 //        schimi.gibLaut();
 //        henrietta.gibLaut();

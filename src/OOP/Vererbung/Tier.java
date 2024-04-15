@@ -6,6 +6,10 @@ public class Tier {
     private String name;
     private int gebJahr;
 
+    // Klassenvariablen
+    private static int anzahlTiere;
+    private static int nextNr = 1;
+
     // Set- und Get-Methoden
 
     public void setName(String name) {
@@ -24,11 +28,16 @@ public class Tier {
         return this.gebJahr;
     }
 
+    public static int getAnzahlTiere() {
+        return anzahlTiere;
+    }
+
     // Konstruktoren
 
     public Tier(String name, int gebJahr) {
         this.name = name;
         this.gebJahr = gebJahr;
+        this.anzahlTiere = nextNr++;
     }
 
 //    public Tier(String name, int gebJahr) {

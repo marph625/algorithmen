@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="Subklasse Anteil von Klasse Bruch3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="168d96a1-0e02-4c33-8439-d166e1b63958" name="Changes" comment="fixed simple prime numbers program">
       <change beforePath="$PROJECT_DIR$/src/my_stuff/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_stuff/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713191755628</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed simple prime numbers program">
+      <created>1713267627584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713267627584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,7 +116,8 @@
     <MESSAGE value="exercises and text-adventure added" />
     <MESSAGE value="fixed package management" />
     <MESSAGE value="Subklasse Anteil von Klasse Bruch3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subklasse Anteil von Klasse Bruch3" />
+    <MESSAGE value="fixed simple prime numbers program" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed simple prime numbers program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,8 +5,8 @@ public class PrimeNumbers {
 
 	public static void main(String[] args) {
 
-		System.out.println("Alle Primzahlen zwischen 2 und einer eingegebenen Zahl sollen berechnet werden.");
-		int num = IOTools.readInt("Gib eine Zahl ein\n >> ");
+		System.out.println("Enter a number and see if it is a prime number!");
+		int num = IOTools.readInt("\n >> ");
 		boolean flag = false;
 
 		if (num == 1) {
